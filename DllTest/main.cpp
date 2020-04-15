@@ -11,5 +11,7 @@ int main()
 
 	test(11, CallBack);
 
+	printf("ok");
+
 	return 0;
 }
